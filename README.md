@@ -45,8 +45,8 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/sergiiosanz_10">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiiosanz_10&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/sergiosanz2004">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiosanz2004&count=2" alt="Spotify recently played"  />
   </a>
 </div>
 
