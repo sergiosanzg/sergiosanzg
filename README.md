@@ -44,6 +44,14 @@
 
 ###
 
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/sergiiosanz_10">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiiosanz_10&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/sergiiosanz10/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -53,14 +61,6 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncSfpwCMFqRvfWvXmJDDWcNDwkCjDbVfWFNqfTmkjjsRdRtMbSWdscSMWdcwmgxxJLBrW" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/sergiiosanz_10">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiiosanz_10&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
